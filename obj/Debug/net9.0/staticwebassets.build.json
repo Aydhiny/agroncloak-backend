@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "RS73VRBh9j1jIH1RQBfYWp5r/551Vm1vlkWAlz5mHcY=",
+  "Source": "Esp32ImageApi",
+  "BasePath": "_content/Esp32ImageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Esp32ImageApi\\wwwroot",
+      "Source": "Esp32ImageApi",
+      "ContentRoot": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\",
+      "BasePath": "_content/Esp32ImageApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg",
+      "SourceId": "Esp32ImageApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\",
+      "BasePath": "_content/Esp32ImageApi",
+      "RelativePath": "uploads/14050f9f-f46f-4dca-af32-14edd2a52232#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oixrmylif3",
+      "Integrity": "cFAZHF+BGc9bcnNo8E3p1uBki2Ph9BSBEv1g3eUJ8/s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/14050f9f-f46f-4dca-af32-14edd2a52232.jpg",
+      "AssetFile": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFAZHF+BGc9bcnNo8E3p1uBki2Ph9BSBEv1g3eUJ8/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 20:26:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFAZHF+BGc9bcnNo8E3p1uBki2Ph9BSBEv1g3eUJ8/s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/14050f9f-f46f-4dca-af32-14edd2a52232.oixrmylif3.jpg",
+      "AssetFile": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2973"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cFAZHF+BGc9bcnNo8E3p1uBki2Ph9BSBEv1g3eUJ8/s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 20:26:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oixrmylif3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/14050f9f-f46f-4dca-af32-14edd2a52232.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cFAZHF+BGc9bcnNo8E3p1uBki2Ph9BSBEv1g3eUJ8/s="
+        }
+      ]
+    }
+  ]
+}

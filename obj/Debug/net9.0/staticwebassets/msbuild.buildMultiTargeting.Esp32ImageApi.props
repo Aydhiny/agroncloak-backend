@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Esp32ImageApi.props" />
+</Project>

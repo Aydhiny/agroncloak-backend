@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\wwwroot\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg",
+      "PackagePath": "staticwebassets\\uploads\\14050f9f-f46f-4dca-af32-14edd2a52232.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Esp32ImageApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Esp32ImageApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Esp32ImageApi.props",
+      "PackagePath": "build\\Esp32ImageApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Esp32ImageApi.props",
+      "PackagePath": "buildMultiTargeting\\Esp32ImageApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Esp32ImageApi.props",
+      "PackagePath": "buildTransitive\\Esp32ImageApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

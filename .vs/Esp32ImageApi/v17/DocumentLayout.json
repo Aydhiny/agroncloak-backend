@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\esp32imageapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:esp32imageapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\data\\designtimedbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:data\\designtimedbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|e:\\user\\programiranje\\full-stack roadmap\\agron-cloak\\backend\\esp32imageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC140D28-21A4-4126-9B64-0D2F09339978}|Esp32ImageApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Esp32ImageApi.csproj",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Esp32ImageApi.csproj",
+              "RelativeDocumentMoniker": "Esp32ImageApi.csproj",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Esp32ImageApi.csproj",
+              "RelativeToolTip": "Esp32ImageApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T20:23:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:52:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:44:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T18:41:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DesignTimeDbContextFactory .cs",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Data\\DesignTimeDbContextFactory .cs",
+              "RelativeDocumentMoniker": "Data\\DesignTimeDbContextFactory .cs",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Data\\DesignTimeDbContextFactory .cs",
+              "RelativeToolTip": "Data\\DesignTimeDbContextFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:01:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:01:03.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T17:55:47.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Models\\ImageModel.cs",
+              "RelativeDocumentMoniker": "Models\\ImageModel.cs",
+              "ToolTip": "E:\\User\\Programiranje\\Full-Stack Roadmap\\agron-cloak\\backend\\Esp32ImageApi\\Models\\ImageModel.cs",
+              "RelativeToolTip": "Models\\ImageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:54:21.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
